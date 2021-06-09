@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: PerfectWebPrivacy!
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Celebrating new web.
     actions:
       - label: Try for free
         url: /pricing
